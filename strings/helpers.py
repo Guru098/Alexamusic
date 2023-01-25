@@ -25,7 +25,7 @@ HELP_1 = """🙄**<u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</u>**
 /auth [ᴜsᴇʀɴᴀᴍᴇ] : ᴀᴅᴅ ᴀ ᴜsᴇʀ ᴛᴏ ᴀᴜᴛʜ ʟɪsᴛ ᴏғ ᴛʜᴇ ʙᴏᴛ.
 /unauth [ᴜsᴇʀɴᴀᴍᴇ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @AsadSupport, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @kingworldk ,  @kingworld27 @Kissmee27."""
 
 
 HELP_2 = """💞<u>**ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:**</u>
@@ -67,7 +67,7 @@ HELP_3 = """😉<u>**ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @AsadSupport, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Kissmee27, @kingworld27 @kingworldk."""
 
 HELP_4 = """😴<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
@@ -77,7 +77,7 @@ HELP_4 = """😴<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
 🧐<u>**ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs:**</u>
 /settings : sʜᴏᴡs ᴛʜᴇ ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ɪɴʟɪɴᴇ ᴍᴇɴᴜ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @AsadSupport, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Kissmee27, @kingworld27 @kingworldk."""
 
 HELP_5 = """🥺**<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>**
 /addsudo [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
