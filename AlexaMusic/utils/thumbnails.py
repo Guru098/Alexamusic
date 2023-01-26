@@ -135,7 +135,7 @@ async def gen_thumb(videoid):
             image4.text((10, 10), "XZENO BEATS", fill="white", font=font1, align="left")
             image4.text(
                 (670, 150),
-                "Now Playing",
+                "Xzeno Beats",
                 fill="white",
                 font=font2,
                 stroke_width=2,
