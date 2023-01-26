@@ -81,7 +81,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="Little 💓 Heart", url=f"https://t.me/TamilChats_Group_friendshi"),
         ],
     ]
     return buttons
@@ -97,14 +97,14 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ 💞", url=f"https://t.me/Jankari_Ki_Duniya"),
+            InlineKeyboardButton(text="Baby💋", url=f"https://t.me/kissmee27"),
         ],
         [
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="ᴀʟᴇxᴀ ᴄʜᴀᴛ 💌", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="LITTLE ♥️ HEART", url=f"https://t.me/TamilChats_Group_friendshi"),
         ],
     ]
     return buttons
