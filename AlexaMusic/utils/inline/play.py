@@ -54,10 +54,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             InlineKeyboardButton(
                 text=f"Cutiee💫chatbot",
                 url=f"https://t.me/Cutieechat_bot",
-            )
+            ),
             
               InlineKeyboardButton(text=_["H_B_5 "],
-               callback_data="close"),
+               callback_data="close",),
             
         ],
     ]
