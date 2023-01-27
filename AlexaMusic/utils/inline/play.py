@@ -48,7 +48,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
-            InlineKeyboardButton(text="LITTLE 💖 HEART", url=f"https://t.me/TamilChats_Group_friendshi"),
+            InlineKeyboardButton(text="✨LITTLE HEART❤️‍🩹", url=f"https://t.me/TamilChats_Group_friendshi"),
         ],
         [
             InlineKeyboardButton(
